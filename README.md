@@ -1,5 +1,7 @@
 This repo have two files:
+
      inventory.py
+     
      test_inventory.py
 
 Here, I used Test Driven Development (TDD) to build a Python terminal inventory management system using the fundamentals of object-oriented programming.
