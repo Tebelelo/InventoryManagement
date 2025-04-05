@@ -5,8 +5,11 @@ This repo have two files:
 Here, I used Test Driven Development (TDD) to build a Python terminal inventory management system using the fundamentals of object-oriented programming.
 
 The significance of TDD:
+
      -It ensure the software quality.
+     
      -Reduce the time for debugging.
+     
      -Enforces developer to outline all the requirements in detail prior to implementation,resulting in clearer code design.
      
 Functionalites are:
